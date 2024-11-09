@@ -1,3 +1,3 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This repository contains the source code for my solution to the Timestamp Microservice project, part of the freeCodeCamp Back End Development and APIs Certification. This project demonstrates the use of Node.js and Express to create a simple API that returns Unix and UTC timestamps for given date inputs. It handles various date formats, including Unix timestamps and standard date strings, and returns an error message for invalid dates.
